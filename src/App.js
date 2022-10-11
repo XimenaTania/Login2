@@ -32,7 +32,7 @@ function App() {
         Text fontSize = "md"
         align = "center"
         pb = { 4 } > Ministerio de Empleo < /Text> <
-        VStack spacing = { 4 }
+        VStack spacing = { 3 }
         aline = "stretch"
         pb = { 3 } >
         <
@@ -40,7 +40,7 @@ function App() {
         <
         Input placeholder = "Email" / >
         <
-        Input placeholder = "Passwoard" / >
+        Input placeholder = "Passwoard " / >
         <
         Input placeholder = "Confirm Passwoard" / >
         <
